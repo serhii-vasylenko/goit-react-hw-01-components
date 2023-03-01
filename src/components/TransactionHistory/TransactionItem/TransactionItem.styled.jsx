@@ -27,8 +27,3 @@ export const Cell = styled.td`
     text-align: left;
   }
 `;
-
-
-export const Article = styled.article({
-  backgroundColor: "#fff",
-})
